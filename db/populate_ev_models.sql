@@ -1,0 +1,16 @@
+INSERT INTO ev_models (model_name, battery_capacity_kWh, range_km, weight_kg, vehicle_type) VALUES
+('Tata Nexon EV', 40.5, 312, 1400, 'SUV'),
+('Tata Tiago EV', 24.0, 250, 1235, 'Hatchback'),
+('Tata Punch EV', 35.0, 421, 1375, 'SUV'),
+('Tata Tigor EV', 26.0, 315, 1230, 'Sedan'),
+('MG Comet EV', 17.3, 230, 815, 'Microcar'),
+('Tata Curvv EV', 44.0, 450, 1480, 'SUV'),
+('MG ZS EV', 50.3, 419, 1540, 'SUV'),
+('Hyundai Creta Electric', 45.0, 450, 1550, 'SUV'),
+('MG Windsor EV', 60.0, 480, 1650, 'SUV'),
+('Citroën E-C3', 29.2, 320, 1316, 'Hatchback'),
+('Mahindra BE 6', 60.0, 500, 1600, 'SUV'),
+('Mahindra XEV 9e', 75.0, 550, 1700, 'SUV'),
+('BYD Atto 3', 60.5, 521, 1680, 'SUV'),
+('BYD Seal', 82.5, 700, 1920, 'Sedan'),
+('Kia EV6', 77.4, 708, 1990, 'Crossover');
